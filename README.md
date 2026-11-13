@@ -1,18 +1,16 @@
-## Getting Started
+## DEIHS Library System
+A robust Java Desktop Application that helps manage official books.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Using the principles of Object Oriented Programming and Do Not Repeat Yourself, this Java project uses most of what I have learned from Term 2.
 
 ## Folder Structure
+All the lesson I have been taught from the start to the end has helped me and given me a strong sense of understanding of the principles of Java Programming. This also showed to me my holes in my understanding which I intend to fix following this.
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## LOGIN PAGE
+<img width="982" height="641" alt="Screenshot (1355)" src="https://github.com/user-attachments/assets/a2a9b131-9082-4fde-abf7-207b0f273969" />
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## DASHBOARD
+<img width="982" height="643" alt="Screenshot (1354)" src="https://github.com/user-attachments/assets/fb715510-82ac-4e02-9975-c541c7b7a81d" />
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
