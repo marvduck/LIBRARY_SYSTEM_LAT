@@ -3,7 +3,7 @@ A robust Java Desktop Application that helps manage official books.
 
 Using the principles of Object Oriented Programming and Do Not Repeat Yourself, this Java project uses most of what I have learned from Term 2.
 
-## Folder Structure
+## What I have learned
 All the lesson I have been taught from the start to the end has helped me and given me a strong sense of understanding of the principles of Java Programming. This also showed to me my holes in my understanding which I intend to fix following this.
 
 The workspace contains two folders by default, where:
